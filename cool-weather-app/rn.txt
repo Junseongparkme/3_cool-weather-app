@@ -1,3 +1,0 @@
-리액트 네이티브 : js코드 --> 옵씨/자바로 변경됨 (정확히는 View 컴포넌트의 역할)
-npm install expo-cli --global --> expo init --> cd 앱 --> yarn web (웹으로 볼수있음)
-참고로 expo snack을 사용하면 codepen.io 처럼 쓸수있음
