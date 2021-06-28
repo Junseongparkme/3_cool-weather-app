@@ -4,8 +4,9 @@ import Loading from './Loading';
 import { Alert } from 'react-native';
 import axios from 'axios';
 import Weather from './Weather';
+import API_KEY from './config';
 
-const API_KEY = '받아온 API 키 입력';
+const API_KEY = config.API_KEY;
 
 export default class extends React.Component {
   state = {
